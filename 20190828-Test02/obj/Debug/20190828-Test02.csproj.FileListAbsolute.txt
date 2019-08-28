@@ -1,0 +1,9 @@
+C:\Users\寺尾尉慧\source\repos\20190828-Test02\20190828-Test02\bin\Debug\20190828-Test02.exe.config
+C:\Users\寺尾尉慧\source\repos\20190828-Test02\20190828-Test02\bin\Debug\20190828-Test02.exe
+C:\Users\寺尾尉慧\source\repos\20190828-Test02\20190828-Test02\bin\Debug\20190828-Test02.pdb
+C:\Users\寺尾尉慧\source\repos\20190828-Test02\20190828-Test02\obj\Debug\_20190828_Test02.Form1.resources
+C:\Users\寺尾尉慧\source\repos\20190828-Test02\20190828-Test02\obj\Debug\_20190828_Test02.Properties.Resources.resources
+C:\Users\寺尾尉慧\source\repos\20190828-Test02\20190828-Test02\obj\Debug\20190828-Test02.csproj.GenerateResource.cache
+C:\Users\寺尾尉慧\source\repos\20190828-Test02\20190828-Test02\obj\Debug\20190828-Test02.csproj.CoreCompileInputs.cache
+C:\Users\寺尾尉慧\source\repos\20190828-Test02\20190828-Test02\obj\Debug\20190828-Test02.exe
+C:\Users\寺尾尉慧\source\repos\20190828-Test02\20190828-Test02\obj\Debug\20190828-Test02.pdb
